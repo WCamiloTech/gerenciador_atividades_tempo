@@ -14,3 +14,5 @@ __pycache__/
 backups/
 '@ | Set-Content -Path .gitignore -Encoding utf8
 docs/INSTRUCOES.txt
+
+/data/
